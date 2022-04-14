@@ -1,4 +1,4 @@
-python
+Brotli
 click
 colorama
 dash
